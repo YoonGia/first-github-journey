@@ -6,5 +6,9 @@ num3 = 30
 
 jiejue = 'bug'
 
+<<<<<<< Updated upstream
 xiufu = '333'
+=======
+git = 'v3.1....'
+>>>>>>> Stashed changes
 
