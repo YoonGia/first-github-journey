@@ -6,3 +6,5 @@ num3 = 30
 
 jiejue = 'bug'
 
+xiufu = '333'
+
